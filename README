@@ -1,0 +1,5 @@
+If you need to interface with a Xiaomi Mi Robot Vacuum and python isn't an option.
+https://github.com/rytilahti/python-miio
+
+`MIROBO_IP` and `MIROBO_TOKEN` environment variable need to be set. Compare to
+https://github.com/haim0n/python-mirobo
